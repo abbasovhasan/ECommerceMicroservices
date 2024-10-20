@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "PhotoStock.Controllers.ImagesController",
+    "Method": "Delete",
+    "RelativePath": "api/Images/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhotoStock.Controllers.ImagesController",
+    "Method": "Upload",
+    "RelativePath": "api/Images/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

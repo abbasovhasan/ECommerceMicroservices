@@ -1,0 +1,20 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\upload\b8ecf715-c595-4d7b-b19a-a9a01ae0edd2_image_2024-10-06_081759227-removebg-preview.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhotoStockAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhotoStockAPI</BasePath>
+      <RelativePath>upload/b8ecf715-c595-4d7b-b19a-a9a01ae0edd2_image_2024-10-06_081759227-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\upload\b8ecf715-c595-4d7b-b19a-a9a01ae0edd2_image_2024-10-06_081759227-removebg-preview.png))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

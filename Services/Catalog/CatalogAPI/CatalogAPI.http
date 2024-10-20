@@ -1,0 +1,141 @@
+GET http://localhost:5203/api/product
+Accept: application/json
+
+
+###
+GET {{CatalogAPI_HostAddress}}/api/product
+Accept: application/json
+
+###
+
+# GET Product by Id
+GET {{CatalogAPI_HostAddress}}/api/product/1
+Accept: application/json
+
+###
+
+# POST Add New Product
+POST {{CatalogAPI_HostAddress}}/api/product
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "New Product",
+  "description": "This is a new product",
+  "price": 19.99,
+  "stock": 100,
+  "imageUrl": "http://example.com/product-image.jpg",
+  "categoryId": 1,
+  "brandId": 1
+}
+
+###
+
+# PUT Update Existing Product
+PUT {{CatalogAPI_HostAddress}}/api/product/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Updated Product Name",
+  "description": "Updated description",
+  "price": 24.99,
+  "stock": 120,
+  "imageUrl": "http://example.com/updated-product-image.jpg",
+  "categoryId": 1,
+  "brandId": 1
+}
+
+###
+
+# DELETE Product by Id
+DELETE {{CatalogAPI_HostAddress}}/api/product/1
+Accept: application/json
+
+###
+
+### CATEGORIES ###
+
+# GET All Categories
+GET {{CatalogAPI_HostAddress}}/api/category
+Accept: application/json
+
+###
+
+# GET Category by Id
+GET {{CatalogAPI_HostAddress}}/api/category/1
+Accept: application/json
+
+###
+
+# POST Add New Category
+POST {{CatalogAPI_HostAddress}}/api/category
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "New Category",
+  "description": "This is a new category"
+}
+
+###
+
+# PUT Update Existing Category
+PUT {{CatalogAPI_HostAddress}}/api/category/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Updated Category",
+  "description": "Updated category description"
+}
+
+###
+
+# DELETE Category by Id
+DELETE {{CatalogAPI_HostAddress}}/api/category/1
+Accept: application/json
+
+###
+
+### BRANDS ###
+
+# GET All Brands
+GET {{CatalogAPI_HostAddress}}/api/brand
+Accept: application/json
+
+###
+
+# GET Brand by Id
+GET {{CatalogAPI_HostAddress}}/api/brand/1
+Accept: application/json
+
+###
+
+# POST Add New Brand
+POST {{CatalogAPI_HostAddress}}/api/brand
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "New Brand",
+  "description": "This is a new brand"
+}
+
+###
+
+# PUT Update Existing Brand
+PUT {{CatalogAPI_HostAddress}}/api/brand/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Updated Brand",
+  "description": "Updated brand description"
+}
+
+###
+
+# DELETE Brand by Id
+DELETE {{CatalogAPI_HostAddress}}/api/brand/1
+Accept: application/json

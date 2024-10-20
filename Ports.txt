@@ -1,0 +1,5 @@
+identity server url: https://localhost:50001
+catalog service url: http://localhost:5002
+basket servie url: http://localhost:5003
+order service url: http://localhost:5004
+photostock service url: http://localhost:5005 40-ci deqiqe

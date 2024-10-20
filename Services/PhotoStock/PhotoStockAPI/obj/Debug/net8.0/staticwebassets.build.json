@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Rw4TTgVs+18QyC46assICAQC0S6mDvh98n34qeoOTNc=",
+  "Source": "PhotoStockAPI",
+  "BasePath": "_content/PhotoStockAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PhotoStockAPI\\wwwroot",
+      "Source": "PhotoStockAPI",
+      "ContentRoot": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\wwwroot\\",
+      "BasePath": "_content/PhotoStockAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\wwwroot\\upload\\b8ecf715-c595-4d7b-b19a-a9a01ae0edd2_image_2024-10-06_081759227-removebg-preview.png",
+      "SourceId": "PhotoStockAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\wwwroot\\",
+      "BasePath": "_content/PhotoStockAPI",
+      "RelativePath": "upload/b8ecf715-c595-4d7b-b19a-a9a01ae0edd2_image_2024-10-06_081759227-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\b8ecf715-c595-4d7b-b19a-a9a01ae0edd2_image_2024-10-06_081759227-removebg-preview.png"
+    }
+  ]
+}
