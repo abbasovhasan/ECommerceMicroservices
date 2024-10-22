@@ -1,4 +1,5 @@
 ﻿using Ardalis.GuardClauses;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
@@ -6,6 +7,7 @@ namespace PhotoStock.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class ImagesController : ControllerBase
 {
     private readonly string _uploadFolderPath;

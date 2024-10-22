@@ -21,3 +21,15 @@ C:\Users\abbas\OneDrive\Desktop\FinalProject\Code_Academy_Final_Project\Services
 C:\Users\abbas\OneDrive\Desktop\FinalProject\Code_Academy_Final_Project\Services\Basket\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\abbas\OneDrive\Desktop\FinalProject\Code_Academy_Final_Project\Services\Basket\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\abbas\OneDrive\Desktop\FinalProject\Code_Academy_Final_Project\Services\Basket\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\abbas\ECommerceMicroservices\Services\Basket\Domain\obj\Debug\net8.0\ref\Domain.dll

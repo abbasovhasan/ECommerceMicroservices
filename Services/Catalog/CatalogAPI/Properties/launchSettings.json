@@ -5,7 +5,7 @@
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:5002", // Catalog Service HTTP port
-      "sslPort": 5003 // Catalog Service HTTPS port
+      "sslPort": 5002 // Catalog Service HTTPS port
     }
   },
   "profiles": {

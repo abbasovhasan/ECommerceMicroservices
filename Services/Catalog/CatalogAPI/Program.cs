@@ -4,6 +4,9 @@ using AutoMapper;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.IdentityModel.JsonWebTokens;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,19 +50,35 @@ builder.Services.AddCors(options =>
     });
 });
 
-builder.Services.AddControllers(options =>
-{
-    //options.Filters.Add(new AuthorizeFilter(requiredAuthorizationPolicy));
-});
+//Authorization
+builder.Services.AddHttpContextAccessor();
+JsonWebTokenHandler.DefaultInboundClaimTypeMap.Remove("sub");
+JsonWebTokenHandler.DefaultInboundClaimTypeMap.Remove("roles");
 
 builder.Services
-    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddJwtBearer(options =>
+.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+.AddJwtBearer(options =>
 {
-    options.Authority = builder.Configuration["IdentityServerlUrl"];
-    options.Audience = "CatalogFullAPIAccess";
+    options.Authority = builder.Configuration["IdentityServerUrl"];
+    options.Audience = "CatalogAPIFullAccess";
     options.RequireHttpsMetadata = false;
+
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        RoleClaimType = "roles",
+        NameClaimType = "sub"
+    };
 });
+
+var requiredAuthorizationPolicy = new AuthorizationPolicyBuilder()
+    .RequireAuthenticatedUser()
+    .Build();
+
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add(new AuthorizeFilter(requiredAuthorizationPolicy));
+});
+
 
 var app = builder.Build();
 

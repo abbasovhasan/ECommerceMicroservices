@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {}
+    "C:\\Users\\abbas\\ECommerceMicroservices\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\IdentityServer\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",

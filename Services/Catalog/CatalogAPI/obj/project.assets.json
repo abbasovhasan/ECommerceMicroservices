@@ -4477,11 +4477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+      "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
       "projectName": "CatalogAPI",
-      "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+      "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
       "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\obj\\",
+      "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\CatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4499,11 +4499,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj"
+            "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj"
             },
-            "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Persistence.csproj"
+            "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Persistence\\Persistence.csproj"
             }
           }
         }

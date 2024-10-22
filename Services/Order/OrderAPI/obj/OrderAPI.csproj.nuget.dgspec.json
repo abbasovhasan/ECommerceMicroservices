@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.csproj": {}
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\OrderAPI\\OrderAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\OrderAPI\\OrderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
         "projectName": "OrderAPI",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\OrderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,14 +173,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj"
               },
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Persistence.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -207,6 +207,10 @@
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -246,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -271,11 +275,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Application\\Application.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Application\\Application.csproj"
               },
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\Domain\\Domain.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Order\\Domain\\Domain.csproj"
               }
             }
           }

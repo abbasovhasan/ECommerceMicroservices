@@ -1,152 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\abbas\\ECommerceMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\photostock\\photostockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\photostock\\photostockapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\photostock\\photostockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\photostock\\photostockapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\ecommercemicroservices\\services\\photostock\\photostockapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\photostock\\photostockapi\\photostockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\photostockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\ecommercemicroservices\\services\\photostock\\photostockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D934BF4F-60EF-41C8-A6CD-E3B8E0D15CB0}|NewFolder1{D934BF4F-60EF-41C8-A6CD-E3B8E0D15CB0}|C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D934BF4F-60EF-41C8-A6CD-E3B8E0D15CB0}|NewFolder1{D934BF4F-60EF-41C8-A6CD-E3B8E0D15CB0}|solutionrelative:Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\ecommercemicroservices\\services\\photostock\\photostockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6580637-96C7-412F-882F-0CC914FD2F1E}|Services\\Basket\\BasketAPI\\BasketAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\basket\\basketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6580637-96C7-412F-882F-0CC914FD2F1E}|Services\\Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:services\\basket\\basketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\ecommercemicroservices\\services\\photostock\\photostockapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\order\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B29D24A1-C14C-4FEB-95F1-DEABE3E9B6E3}|Services\\Order\\OrderAPI\\OrderAPI.csproj|solutionrelative:services\\order\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|c:\\users\\abbas\\ecommercemicroservices\\services\\photostock\\photostockapi\\photostockapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{71360A7A-D7DC-4976-8173-E56958430D9B}|Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj|solutionrelative:services\\photostock\\photostockapi\\photostockapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D35FE5A-C341-4564-BC16-787CBB3DD600}|Services\\Catalog\\Domain\\Domain.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D35FE5A-C341-4564-BC16-787CBB3DD600}|Services\\Catalog\\Domain\\Domain.csproj|solutionrelative:services\\catalog\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\application\\abstraction\\servicesconcretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649ACD6B-0E32-40CB-8730-B111DB337DCA}|Services\\Catalog\\Application\\Application.csproj|solutionrelative:services\\catalog\\application\\abstraction\\servicesconcretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\ecommercemicroservices\\services\\catalog\\catalogapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\identityserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\identityserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Migrations\\20241020173624_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServer\\IdentityServer\\Migrations\\20241020173624_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\identityserver\\identityserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F381E5C-FEFE-4014-9123-B917117F8606}|IdentityServer\\IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CBF82B-8392-4E49-B80D-1890BCB45B4B}|Services\\Catalog\\Persistence\\Persistence.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\persistence\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CBF82B-8392-4E49-B80D-1890BCB45B4B}|Services\\Catalog\\Persistence\\Persistence.csproj|solutionrelative:services\\catalog\\persistence\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6580637-96C7-412F-882F-0CC914FD2F1E}|Services\\Basket\\BasketAPI\\BasketAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\basket\\basketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6580637-96C7-412F-882F-0CC914FD2F1E}|Services\\Basket\\BasketAPI\\BasketAPI.csproj|solutionrelative:services\\basket\\basketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\desktop\\finalproject\\code_academy_final_project\\services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B2AECC29-90AC-462C-BA94-C54F9E09A251}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\AppData\\Local\\SourceServer\\2717dd0a3306f36bc5ea8baafa7500f0447ce9520ed4aa5fd635bd402eb828d5\\src\\Mvc\\Mvc.Core\\src\\Builder\\ControllerEndpointRouteBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\AppData\\Local\\SourceServer\\db52c2434456054cc8c0fcfdb1a9560888cb2e9cbdfbb54a7c9e4a7c0958bb63\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\AppData\\Local\\SourceServer\\ab71b6e6622936f383c62da5602921034657c7f93876dbbdfa02d12916df5abd\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\AppData\\Local\\SourceServer\\11c6b946fd2ca90f5f82fb3c118c7aaacc0bf621380f5ab4edbb3c1bf87b8fae\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\AppData\\Local\\SourceServer\\cdc7e9b15cf15990f6c38c4767805626399d7d9a96dd65374413228569e83f91\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -165,494 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
-              "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T22:22:15.433Z",
+              "WhenOpened": "2024-10-21T23:49:06.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PhotoStockAPI",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
               "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
+              "ToolTip": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
               "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T22:25:38.893Z",
+              "WhenOpened": "2024-10-21T23:48:31.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\Controllers\\ImagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T22:22:42.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T22:13:17.823Z",
+              "WhenOpened": "2024-10-21T23:48:23.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\appsettings.json",
               "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T23:47:48.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T22:13:15.572Z",
+              "WhenOpened": "2024-10-21T23:47:39.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T17:38:15.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
+              "RelativeToolTip": "Services\\PhotoStock\\PhotoStockAPI\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:07:57.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:09:48.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ports.txt",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Ports.txt",
-              "RelativeDocumentMoniker": "Ports.txt",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Ports.txt",
-              "RelativeToolTip": "Ports.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-20T19:23:28.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Order\\OrderAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T17:39:46.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Basket\\BasketAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\BasketAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Basket\\BasketAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Basket\\BasketAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T17:38:34.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\Config.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:19:44.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Program.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\Program.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Program.cs",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwCoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:20:36.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Models\\Product.cs",
-              "RelativeToolTip": "Services\\Catalog\\Domain\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:50:54.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IdentityServer.csproj",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T17:32:40.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Startup.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\Startup.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Startup.cs",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\Startup.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAwD0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:19:26.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\DTOs\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\CategoryDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\DTOs\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:51:13.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\DTOs\\BrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:51:16.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\DTOs\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:51:17.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T12:06:38.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-18T23:07:37.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "RelativeToolTip": "Services\\Catalog\\Application\\Abstraction\\ServicesConcretes\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T10:03:09.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\appsettings.json",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\appsettings.json",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T17:15:19.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\SeedData.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\SeedData.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\SeedData.cs",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:21:55.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IdentityServer",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\IdentityServer.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T19:24:04.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:29:43.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20241020173624_Init.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Migrations\\20241020173624_Init.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer\\Migrations\\20241020173624_Init.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\IdentityServer\\IdentityServer\\Migrations\\20241020173624_Init.cs",
-              "RelativeToolTip": "IdentityServer\\IdentityServer\\Migrations\\20241020173624_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:36:25.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Concretes\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Persistence\\Concretes\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Persistence\\Concretes\\ReadRepository.cs",
-              "RelativeToolTip": "Services\\Catalog\\Persistence\\Concretes\\ReadRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA+wBQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T10:04:09.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Basket\\BasketAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\BasketAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Basket\\BasketAPI\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\BasketAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T17:15:26.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:09:46.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AsyncTaskMethodBuilderT.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
-              "ToolTip": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
-              "ViewState": "AgIAAHABAAAAAAAAAAAnwH4BAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:08:40.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:27:47.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ValueTask.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\11c6b946fd2ca90f5f82fb3c118c7aaacc0bf621380f5ab4edbb3c1bf87b8fae\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\11c6b946fd2ca90f5f82fb3c118c7aaacc0bf621380f5ab4edbb3c1bf87b8fae\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "ToolTip": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\11c6b946fd2ca90f5f82fb3c118c7aaacc0bf621380f5ab4edbb3c1bf87b8fae\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\11c6b946fd2ca90f5f82fb3c118c7aaacc0bf621380f5ab4edbb3c1bf87b8fae\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "ViewState": "AgIAAB0DAAAAAAAAAAAnwCsDAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:03:23.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CatalogAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T15:29:45.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ControllerActionInvoker.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\ab71b6e6622936f383c62da5602921034657c7f93876dbbdfa02d12916df5abd\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ab71b6e6622936f383c62da5602921034657c7f93876dbbdfa02d12916df5abd\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
-              "ToolTip": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\ab71b6e6622936f383c62da5602921034657c7f93876dbbdfa02d12916df5abd\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ab71b6e6622936f383c62da5602921034657c7f93876dbbdfa02d12916df5abd\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
-              "ViewState": "AgIAAO4BAAAAAAAAAAAMwPkBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:03:28.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ResourceInvoker.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\db52c2434456054cc8c0fcfdb1a9560888cb2e9cbdfbb54a7c9e4a7c0958bb63\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\db52c2434456054cc8c0fcfdb1a9560888cb2e9cbdfbb54a7c9e4a7c0958bb63\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
-              "ToolTip": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\db52c2434456054cc8c0fcfdb1a9560888cb2e9cbdfbb54a7c9e4a7c0958bb63\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\db52c2434456054cc8c0fcfdb1a9560888cb2e9cbdfbb54a7c9e4a7c0958bb63\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ResourceInvoker.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAMwFsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:03:32.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ControllerEndpointRouteBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\2717dd0a3306f36bc5ea8baafa7500f0447ce9520ed4aa5fd635bd402eb828d5\\src\\Mvc\\Mvc.Core\\src\\Builder\\ControllerEndpointRouteBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\2717dd0a3306f36bc5ea8baafa7500f0447ce9520ed4aa5fd635bd402eb828d5\\src\\Mvc\\Mvc.Core\\src\\Builder\\ControllerEndpointRouteBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\2717dd0a3306f36bc5ea8baafa7500f0447ce9520ed4aa5fd635bd402eb828d5\\src\\Mvc\\Mvc.Core\\src\\Builder\\ControllerEndpointRouteBuilderExtensions.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\2717dd0a3306f36bc5ea8baafa7500f0447ce9520ed4aa5fd635bd402eb828d5\\src\\Mvc\\Mvc.Core\\src\\Builder\\ControllerEndpointRouteBuilderExtensions.cs",
-              "ViewState": "AgIAAJ8BAAAAAAAAAIBZwPwBAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T21:02:30.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ActionMethodExecutor.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\cdc7e9b15cf15990f6c38c4767805626399d7d9a96dd65374413228569e83f91\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\cdc7e9b15cf15990f6c38c4767805626399d7d9a96dd65374413228569e83f91\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
-              "ToolTip": "C:\\Users\\abbas\\AppData\\Local\\SourceServer\\cdc7e9b15cf15990f6c38c4767805626399d7d9a96dd65374413228569e83f91\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\cdc7e9b15cf15990f6c38c4767805626399d7d9a96dd65374413228569e83f91\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
-              "ViewState": "AgIAAPUAAAAAAAAAAAAnwAMBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:01:18.254Z",
+              "WhenOpened": "2024-10-21T23:47:33.843Z",
               "EditorCaption": ""
             }
           ]

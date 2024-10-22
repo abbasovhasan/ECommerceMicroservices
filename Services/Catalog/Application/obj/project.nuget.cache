@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPTvShZ6usw=",
+  "dgSpecHash": "lFgHKR9apPQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abbas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\abbas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

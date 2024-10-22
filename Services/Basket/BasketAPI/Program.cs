@@ -1,5 +1,10 @@
 ﻿using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.JsonWebTokens;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +42,40 @@ builder.Services.AddCors(options =>
     });
 });
 
+//Authorization
+builder.Services.AddHttpContextAccessor();
+JsonWebTokenHandler.DefaultInboundClaimTypeMap.Remove("sub");
+JsonWebTokenHandler.DefaultInboundClaimTypeMap.Remove("roles");
+
+builder.Services
+.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+.AddJwtBearer(options =>
+{
+    options.Authority = builder.Configuration["IdentityServerUrl"];
+    options.Audience = "BasketAPIFullAccess";
+    options.RequireHttpsMetadata = false;
+
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        RoleClaimType = "roles",
+        NameClaimType = "sub"
+    };
+});
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("WriteOrder", policy => policy.RequireRole("superadmin", "admin", "director", "waiter"));
+    options.AddPolicy("ReadOrder", policy => policy.RequireRole("superadmin", "admin", "director"));
+});
+
+var requiredAuthorizationPolicy = new AuthorizationPolicyBuilder()
+    .RequireAuthenticatedUser()
+    .Build();
+
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add(new AuthorizeFilter(requiredAuthorizationPolicy));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -51,6 +90,7 @@ app.UseCors("AllowAll");
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

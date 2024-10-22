@@ -1,6 +1,8 @@
-@PhotoStockAPI_HostAddress = http://localhost:5135
+@PhotoStockAPI_HostAddress = http://localhost:5005
 
-GET {{PhotoStockAPI_HostAddress}}/weatherforecast/
-Accept: application/json
+POST {{PhotoStockAPI_HostAddress}}/api/images/upload
+Content-Type : multipart/form-data
+
+--boundary
 
 ###

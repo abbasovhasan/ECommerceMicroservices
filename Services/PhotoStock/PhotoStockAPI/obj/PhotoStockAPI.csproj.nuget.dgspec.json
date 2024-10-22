@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj": {}
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
         "projectName": "PhotoStockAPI",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\PhotoStockAPI.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\PhotoStock\\PhotoStockAPI\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\PhotoStock\\PhotoStockAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",

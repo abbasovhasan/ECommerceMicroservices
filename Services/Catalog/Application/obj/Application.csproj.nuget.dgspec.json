@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj": {}
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Application\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Domain.csproj"
+              "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Domain\\Domain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Domain.csproj": {
+    "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\FinalProject\\Code_Academy_Final_Project\\Services\\Catalog\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\ECommerceMicroservices\\Services\\Catalog\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",

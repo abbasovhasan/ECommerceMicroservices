@@ -1,10 +1,6 @@
-﻿// Copyright (c) Brock Allen & Dominick Baier. All rights reserved.
-// Licensed under the Apache License, Version 2.0. See LICENSE in the project root for license information.
-
-
-using IdentityServer4;
-using IdentityServer.Data;
+﻿using IdentityServer.Data;
 using IdentityServer.Models;
+using IdentityServer4.AspNetIdentity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -12,7 +8,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using IdentityServer4.Models;
 
 namespace IdentityServer
 {
@@ -29,50 +24,47 @@ namespace IdentityServer
 
         public void ConfigureServices(IServiceCollection services)
         {
-            //TODO: Bu alani ekleyeniz  
-            services.AddLocalApiAuthentication();
-
-
-            services.AddControllersWithViews();
-
+            // Veritabanı bağlantısı için DbContext'i ekle
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            // ASP.NET Identity'yi ekle ve IdentityServer ile entegre et
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
+            // IdentityServer yapılandırması
             var builder = services.AddIdentityServer(options =>
             {
                 options.Events.RaiseErrorEvents = true;
                 options.Events.RaiseInformationEvents = true;
                 options.Events.RaiseFailureEvents = true;
                 options.Events.RaiseSuccessEvents = true;
-
-                // see https://identityserver4.readthedocs.io/en/latest/topics/resources.html
-                options.EmitStaticAudienceClaim = true;
+                options.EmitStaticAudienceClaim = true; // Static audience claim ekle
             })
-                .AddInMemoryIdentityResources(Config.IdentityResources)
-                .AddInMemoryApiResources(Config.ApiResources)
-                .AddInMemoryApiScopes(Config.ApiScopes)
-                .AddInMemoryClients(Config.Clients)
-                .AddAspNetIdentity<ApplicationUser>();
+                .AddInMemoryIdentityResources(Config.IdentityResources) // Bellekte kimlik kaynakları
+                .AddInMemoryApiResources(Config.ApiResources)           // Bellekte API kaynakları
+                .AddInMemoryApiScopes(Config.ApiScopes)                 // Bellekte API kapsamları
+                .AddInMemoryClients(Config.Clients)                     // Bellekte istemciler
+                .AddAspNetIdentity<ApplicationUser>();                  // IdentityServer ile ASP.NET Identity entegrasyonu
 
-            // not recommended for production - you need to store your key material somewhere secure
-            //builder.AddResourceOwnerValidator<IdentityResource>
-            builder.AddDeveloperSigningCredential();
 
-            services.AddAuthentication()
-                .AddGoogle(options =>
-                {
-                    options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
-                    
-                    // register your IdentityServer with Google at https://console.developers.google.com
-                    // enable the Google+ API
-                    // set the redirect URI to http://localhost:5001/signin-google
-                    options.ClientId = "copy client ID from Google here";
-                    options.ClientSecret = "copy client secret from Google here";
-                });
+            //services.AddScoped<IdentityServer4.Services.IProfileService, ProfileService>();
+
+            // Geliştirme için geliştirici imzalama anahtarını kullan
+            if (Environment.IsDevelopment())
+            {
+                builder.AddDeveloperSigningCredential(); // Üretim dışı ortamlarda kullanılır
+            }
+
+            // Kaynak sahibi parola doğrulayıcı ekleme
+           // builder.AddResourceOwnerValidator<IdentityResourceOwnerPasswordValidator>();
+
+            // Local API Authentication ekle
+            services.AddLocalApiAuthentication();
+
+            // MVC ve kontrolcüleri ekle
+            services.AddControllersWithViews();
         }
 
         public void Configure(IApplicationBuilder app)
@@ -83,15 +75,21 @@ namespace IdentityServer
                 app.UseDatabaseErrorPage();
             }
 
-            app.UseStaticFiles();
+            app.UseStaticFiles(); // Statik dosyaları etkinleştir (wwwroot vs.)
 
-            app.UseRouting();
+            app.UseRouting(); // Routing'i etkinleştir
+
+            // IdentityServer'ı etkinleştir
             app.UseIdentityServer();
+
+            // Authentication ve Authorization middleware'lerini ekle
             app.UseAuthentication();
             app.UseAuthorization();
+
+            // MVC rotalarını tanımla
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapDefaultControllerRoute();
+                endpoints.MapDefaultControllerRoute(); // Varsayılan MVC rotası
             });
         }
     }

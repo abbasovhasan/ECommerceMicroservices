@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class BrandController : ControllerBase
 {
     private readonly IBrandService _brandService;
